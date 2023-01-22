@@ -1,6 +1,13 @@
 ### Hi there 👋
 🔭 I’m currently looking for my first experience on IT.
 
+📫 How to reach me:
+jonyolmeda@gmail.com
+https://www.linkedin.com/in/jony-olmeda/
+
+👯 I’m looking to collaborate on projects that I can use and improve my skills.
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonyolmeda&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=jonyolmeda&style=flat-square)
@@ -14,7 +21,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
