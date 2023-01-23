@@ -5,7 +5,7 @@
 jonyolmeda@gmail.com
 https://www.linkedin.com/in/jony-olmeda/
 
-👯 I’m looking to collaborate on projects that I can use and improve my skills.
+👯 I’m looking to collaborate on challenging projects that allows me growing and improving my skills.
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jonyolmeda&theme=radical)
