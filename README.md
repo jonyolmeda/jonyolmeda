@@ -1,4 +1,5 @@
-### Hi there 👋
+### Welcome, thank you for visiting my profile 👋
+
 🔭 I’m currently looking for my first experience on IT.
 
 📫 How to reach me:
