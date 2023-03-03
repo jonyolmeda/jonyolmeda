@@ -1,4 +1,4 @@
-### Welcome, thank you for visiting my profile 👋 
+### Welcome, thank you for visiting my profile 👋  
 
 🔭 I’m currently looking for my first experience on IT.
 
@@ -8,7 +8,7 @@ jonyolmeda@gmail.com
 
 https://www.linkedin.com/in/jony-olmeda/
 
-👯 I’m looking to collaborate on challenging projects that allows me growing and improving my skills.
+👯 I’m looking to collaborate on challenging projects that allow me growing and improving my skills.
 
 Languages and Tools:
 
